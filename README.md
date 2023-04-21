@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ritiksharma6230@gmail.com**
 
-- ⚡ Fun fact **Interested in Electronics Aurduino Projects**
+- ⚡ Fun fact **Interested in Electronics Arduino Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
