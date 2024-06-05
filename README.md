@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web & Android Development and Tech Stuffs**
 
-- 📫 How to reach me **ritiksharma6230@gmail.com**
+- 📫 How to reach me **dev.reetik@gmail.com**
 
 - ⚡ Fun fact **Interested in Drones Technology and NodeMCU/Arduino based Projects**
 
