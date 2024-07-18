@@ -1,9 +1,6 @@
 
 <p><img align="center" src="https://64.media.tumblr.com/9c55ed34bcd091fd2df8a210cb480ee9/139fc90e5349c2ae-33/s2048x3072_c0,0,99938,99889/821a5b65d71e5b6bfa6c7592b3c7de1c2228d3b9.gif" alt="hey-reetik" /></p>
 
-
-
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">A passionate Web & Android developer from India</h3>
 <br><br>    🌱 I’m currently learning React Native<br><br>    💬 Ask me about Web & Android Development and Tech Stuffs<br><br>    📫 How to reach me dev.reetik@gmail.com<br><br>    ⚡ Fun fact Interested in Drones Technology and NodeMCU /Arduino based Projects<br>
