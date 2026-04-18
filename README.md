@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">A Software Developer from India</h3>
-<br><br>    🌱 I’m currently Working as Software Developer Intern<br><br>    💬 Ask me about Web & Android Development and Tech Stuffs<br><br>    📫 How to reach me <a>dev.reetik@gmail.com</a><br><br>    ⚡ Fun fact Interested in Drones Technology and NodeMCU /Arduino based Projects<br>
+<br><br>    🌱 I’m currently Working as Software Engineer <br><br>    💬 Ask me about Web & Android Development and Tech Stuffs<br><br>    📫 How to reach me <a>dev.reetik@gmail.com</a><br><br>    ⚡ Fun fact Interested in Drones Technology and NodeMCU /Arduino based Projects<br>
 
 
 ## 🌐 Socials:
